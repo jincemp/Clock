@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1004px" height="1003px" viewBox="0 0 1004 1003" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>clock_bg</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-20.000000, -20.000000)">
+        <g id="clock_bg" transform="translate(20.000000, 20.000000)">
+            <circle id="Oval" fill="#FEFEFE" cx="502" cy="500" r="500"></circle>
+            <path d="M493,0 L511,0 L511,10 L493,10 L493,0 Z M744.955771,62.68826 L760.544229,71.68826 L755.544229,80.348514 L739.955771,71.348514 L744.955771,62.68826 Z M931.81174,242.955771 L940.81174,258.544229 L932.151486,263.544229 L923.151486,247.955771 L931.81174,242.955771 Z M1003.5,492.5 L1003.5,510.5 L993.5,510.5 L993.5,492.5 L1003.5,492.5 Z M940.81174,744.455771 L931.81174,760.044229 L923.151486,755.044229 L932.151486,739.455771 L940.81174,744.455771 Z M760.544229,931.31174 L744.955771,940.31174 L739.955771,931.651486 L755.544229,922.651486 L760.544229,931.31174 Z M511,1003 L493,1003 L493,993 L511,993 L511,1003 Z M259.044229,940.31174 L243.455771,931.31174 L248.455771,922.651486 L264.044229,931.651486 L259.044229,940.31174 Z M72.18826,760.044229 L63.18826,744.455771 L71.848514,739.455771 L80.848514,755.044229 L72.18826,760.044229 Z M0.5,510.5 L0.5,492.5 L10.5,492.5 L10.5,510.5 L0.5,510.5 Z M63.18826,258.544229 L72.18826,242.955771 L80.848514,247.955771 L71.848514,263.544229 L63.18826,258.544229 Z M243.455771,71.68826 L259.044229,62.68826 L264.044229,71.348514 L248.455771,80.348514 L243.455771,71.68826 Z" id="Rectangle-2" fill="#000000"></path>
+            <text id="12" font-family="Helvetica-CondensedBlack" font-size="64" font-style="condensed" font-weight="700" fill="#000000">
+                <tspan x="470" y="68">12</tspan>
+            </text>
+            <text id="1" transform="translate(728.856406, 105.176915) rotate(30.000000) translate(-728.856406, -105.176915) " font-family="Helvetica-CondensedBlack" font-size="64" font-style="condensed" font-weight="700" fill="#000000">
+                <tspan x="712.856406" y="129.176915">1</tspan>
+            </text>
+            <text id="11" transform="translate(277.143594, 108.176915) rotate(330.000000) translate(-277.143594, -108.176915) " font-family="Helvetica-CondensedBlack" font-size="64" font-style="condensed" font-weight="700" fill="#000000">
+                <tspan x="245.143594" y="132.176915">11</tspan>
+            </text>
+            <text id="2" transform="translate(900.176915, 271.856406) rotate(60.000000) translate(-900.176915, -271.856406) " font-family="Helvetica-CondensedBlack" font-size="64" font-style="condensed" font-weight="700" fill="#000000">
+                <tspan x="884.176915" y="295.856406">2</tspan>
+            </text>
+            <text id="10" transform="translate(110.176915, 273.856406) rotate(300.000000) translate(-110.176915, -273.856406) " font-family="Helvetica-CondensedBlack" font-size="64" font-style="condensed" font-weight="700" fill="#000000">
+                <tspan x="78.1769145" y="297.856406">10</tspan>
+            </text>
+            <text id="3" transform="translate(960.000000, 502.000000) rotate(90.000000) translate(-960.000000, -502.000000) " font-family="Helvetica-CondensedBlack" font-size="64" font-style="condensed" font-weight="700" fill="#000000">
+                <tspan x="944" y="526">3</tspan>
+            </text>
+            <text id="9" transform="translate(52.000000, 502.000000) rotate(90.000000) translate(-52.000000, -502.000000) " font-family="Helvetica-CondensedBlack" font-size="64" font-style="condensed" font-weight="700" fill="#000000">
+                <tspan x="36" y="526">9</tspan>
+            </text>
+            <text id="4" transform="translate(899.176915, 725.856406) rotate(120.000000) translate(-899.176915, -725.856406) " font-family="Helvetica-CondensedBlack" font-size="64" font-style="condensed" font-weight="700" fill="#000000">
+                <tspan x="883.176915" y="749.856406">4</tspan>
+            </text>
+            <text id="8" transform="translate(114.176915, 731.856406) rotate(240.000000) translate(-114.176915, -731.856406) " font-family="Helvetica-CondensedBlack" font-size="64" font-style="condensed" font-weight="700" fill="#000000">
+                <tspan x="98.1769145" y="755.856406">8</tspan>
+            </text>
+            <text id="5" transform="translate(729.176915, 895.856406) rotate(150.000000) translate(-729.176915, -895.856406) " font-family="Helvetica-CondensedBlack" font-size="64" font-style="condensed" font-weight="700" fill="#000000">
+                <tspan x="713.176915" y="919.856406">5</tspan>
+            </text>
+            <text id="7" transform="translate(273.143594, 895.176915) rotate(210.000000) translate(-273.143594, -895.176915) " font-family="Helvetica-CondensedBlack" font-size="64" font-style="condensed" font-weight="700" fill="#000000">
+                <tspan x="257.143594" y="919.176915">7</tspan>
+            </text>
+            <text id="6" transform="translate(502.000000, 959.000000) rotate(180.000000) translate(-502.000000, -959.000000) " font-family="Helvetica-CondensedBlack" font-size="64" font-style="condensed" font-weight="700" fill="#000000">
+                <tspan x="486" y="983">6</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
